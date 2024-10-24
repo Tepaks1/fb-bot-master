@@ -1,52 +1,21 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FB%20SHARE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FB%20AUTO%20SHARE%20SCRIPT%20FOR%20FB%20PUBLIC%20POST%20SHARING&descAlignY=51&descAlign=62" width="100%"/>
-</p></br>
-
-<p align="center">
-   <a href="https://github.com/Tepaks1/fb-bot-master/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/Tepaks1/fb-bot-master?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-   <a href="https://github.com/Tepaks1/fb-bot-master/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/Tepaks1/fb-bot-master?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
-   <a href="https://www.conventionalcommits.org/en/v1.0.0/">
-      <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-   <a href="https://github.com/Tepaks1/fb-bot-master/actions/workflows/github-action.yml">
-      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
-</p>
-   
-</br>
-<p align="center">
-
-> Facebook auto-share lets you automatically publish Public posts to your page, groups, or other accounts, saving you time and boosting engagement. 
-
-## Language</br>
-
- <p align="center"><img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></p>
-
-<h4 align="left">About > </h4><br>
-
-* Unlimited Usage!
-* Supports the Newest Android
-* Working APIs
-* Compatible with all Operators/Carriers
-<br>
-
-<h4 align="left">TESTED ON > </h4><br>
-
-* Kali Linux
-* Termux
-* MacOS
-* Ubuntu
-* Parrot Security OS
-
-## Contributing
-Feel free to clone this project. For major changes, please open an issue first to discuss what you would like to change or add. Thank you!
-
-### Installation >
-
-## INSTALL ON TERMUX
-```bash
-apt update && apt upgrade -y
-pkg install git
-pkg install python
-git clone --depth=1 https://github.com/Tepaks1/fb-bot-master.git
+TERMUX
+<p align="center"><img src="/Image/demo1.jpg"> <p align="center"><img src="/Image/demo2.jpg">
+Kali Linux / Ubuntu / Parrot OS >
+sudo apt-get update && sudo apt-get install git
+git clone https://github.com/Tepaks1/fb-bot-master.git
 cd fb-bot-master
-python3 SHARE.py
+sudo python3 SHARE.py
+LINUX >
+<p align="center"><img src="/Image/demo3.png"> <p align="center"><img src="/Image/demo4.png"> <p align="center"><img src="/Image/demo5.png">
+Languages :
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=Tepaks1&repo=fb-bot-master&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/></p> <h2 align="center">LICENSE</h2>
+FB Share is released under the MIT license, which grants the following permissions:
+
+Commercial use
+Modification
+Distribution
+Patent use
+Private use
+For more convoluted language, see the LICENSE.
+
+<p align="center"> <a href="https://t.me/TheU7p4lArmyX"><img width="300" height="100" src="https://i.imgur.com/N7AK7XY.png"></a></p> </br>
